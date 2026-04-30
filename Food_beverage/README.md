@@ -1,5 +1,10 @@
 # 📊 Marketing Analytics Project
 
+## 👥 Présentation du groupe
+- Christ-Antony TCHOKOGUEU
+- Jade DELCOURT
+- Ann YEBE OLLOMO
+
 ## 🎯 Objectif
 Analyser l’impact des promotions, du marketing et du comportement client.
 
